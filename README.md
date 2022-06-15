@@ -2,7 +2,7 @@
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me anil.gau7801@gmail.com
+- 📫 reach me  anil.gau7801@gmail.com
 
 <!---
 AnilGautam12/AnilGautam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
